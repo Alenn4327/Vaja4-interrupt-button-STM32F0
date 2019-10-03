@@ -21,6 +21,7 @@ interrupt (GPIO_EXT...) in izhod za zeleno LED. Zapišite izbrana pina:</h4>
 <h4>7. Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj?</h4>
 <p>Ne vpliva, ker v programski kodi ni takšnih ukazov. </p>
 
+<h4>Komentar: LED-dioda deluje na principu pritiska na tipko, ki prižge Zeleno LED-diodo, Modra LED-dioda pa zraven utripa. </h4>
 
 
 
